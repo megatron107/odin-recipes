@@ -1,0 +1,47 @@
+body {
+    font-family: "Verdana", sans-serif;
+    background-color: #eee9d4;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 60px;
+    text-align: center;
+    color: #252b39;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    color: #916a7f;
+}
+
+#julia {
+    height: auto;
+    width: 500px;
+}
+
+.front-links {
+    font-size: 20px;
+    color: #252b39;
+}
+
+#haystack {
+    height: auto;
+    width: 500px;
+}
+
+.headers {
+    text-align: left;
+}
+
+#igloo {
+    height: auto;
+    width: 500px;
+}
+
+#lime {
+    height: auto;
+    width: 500px;
+}
